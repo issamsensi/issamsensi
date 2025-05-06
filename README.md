@@ -62,8 +62,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issamsensi" alt="GitHub Streak" /></p>
 
----
 
-### 🐍 Watch my contribution graph eat the squares!
-
-![snake gif](https://github.com/issamsensi/issamsensi/blob/output/github-contribution-grid-snake.svg)
