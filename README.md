@@ -21,7 +21,7 @@
 
 ### 🔥 About Me
 - 🌍 I'm based in **Morocco**
-- 🛠️ Currently working on: **A Hotel Management Web Application**
+- 🛠️ Currently working on: **Nothing At The Moment**
 - 🌱 Learning: **Tailwind CSS**, and deepening my **Full-Stack Development** skills
 - 📫 Reach me at: **issamsensi@gmail.com**
 - 🚀 Passionate about creating clean UI/UX, and writing efficient, scalable code
