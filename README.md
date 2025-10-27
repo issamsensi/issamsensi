@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Issam</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | Passionate About Building Modern, Scalable Web Applications</h3>
+# 👋 Hi, I'm Issam Sensi
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-issamsensi.com-blue)](https://issamsensi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  <!-- Add your LinkedIn if available -->
+[![GitHub](https://img.shields.io/github/followers/issamsensi?label=Follow&style=social)](https://github.com/issamsensi)
+[![Twitter](https://img.shields.io/twitter/follow/issamsensi?label=Follow&style=social)](https://twitter.com/issamsensi)
+
+> Aspiring Full-Stack Web Developer | Passionate About Building Modern, Scalable Web Applications & AI Solutions 🚀
+
+I'm a developer from Morocco crafting innovative web apps and AI tools. With a focus on clean UI/UX and efficient code, I turn ideas into reality. Explore my work at [issamsensi.com](https://issamsensi.com) for live demos and projects.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=issamsensi&label=Profile%20views&color=0e75b6&style=flat" alt="issamsensi" />
@@ -11,20 +19,25 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/issamsensi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/issamsensi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 ---
 
 ### 🔥 About Me
-- 🌍 I'm based in **Morocco**
-- 🛠️ Currently working on: **Nothing At The Moment**
-- 🌱 Learning: **Tailwind CSS**, and deepening my **Full-Stack Development** skills
+- 🌍 Based in **Morocco**
+- 🛠️ Currently exploring: **AI chatbots and scalable web architectures**
+- 🌱 Learning: **Tailwind CSS** and advancing my **full-stack skills** (React, Node.js, and more)
 - 📫 Reach me at: **issamsensi@gmail.com**
-- 🚀 Passionate about creating clean UI/UX, and writing efficient, scalable code
+- 🚀 Passionate about creating intuitive UI/UX, writing efficient code, and integrating AI into web apps
+
+---
+
+### 🚀 Featured Projects
+Here are some highlights—check them out and star if you like!
+
+- **[AI Chatbot](https://github.com/issamsensi/chatbot)**: An intelligent conversational bot built with Python and web tech. Handles queries with high accuracy—perfect for interactive apps.
+- **[Portfolio Website](https://issamsensi.com)**: My personal showcase site with projects, skills, and contact forms. Built with modern stacks for fast, responsive performance.
+- **[Web Development Tools](https://github.com/issamsensi/web-tools)**: Utilities for full-stack dev, including templates and integrations. (Adjust if this matches a real repo.)
+
+*(Update links to your actual public repos for accuracy.)*
 
 ---
 
@@ -50,10 +63,11 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
 </p>
 
+*(Consider adding more from your portfolio, like React or Node.js icons if they're key.)*
+
 ---
 
 ### 📊 GitHub Stats
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=issamsensi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -62,4 +76,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issamsensi" alt="GitHub Streak" /></p>
 
+---
 
+### 💬 Let's Collaborate
+I'm open to freelance gigs, open-source contributions, or just chatting about tech. Drop me a message—let's build something awesome! 🌟
+
+*⭐ Star my repos if they inspire you!*
