@@ -85,7 +85,7 @@ I'm a **Moroccan developer** passionate about building **clean, scalable, and us
 </td>
 <td width="50%">
 
-#### � [WATERMAN](https://github.com/issamsensi/WATERMAN)
+#### 💧 [WATERMAN](https://github.com/issamsensi/WATERMAN)
 Android app for water meter management with ML Kit OCR
 - **Tech:** Java, Android, ML Kit, SQLite
 - **Features:** OCR text recognition, meter tracking
