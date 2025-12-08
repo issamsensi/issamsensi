@@ -139,6 +139,8 @@ Modern, responsive portfolio website
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issamsensi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+![GitHub Contribution Snake](https://raw.githubusercontent.com/issamsensi/issamsensi/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
