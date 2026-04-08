@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-amghar-406b3a228)
 [![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamsensi@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Clean%2C+Scalable+Software;Full-Stack+Web+%26+Mobile+Developer;AI+%26+Machine+Learning+Explorer;Turning+Ideas+Into+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Clean%2C+Scalable+Software;Full-Stack+%7C+Mobile+%7C+AI;Transforming+Ideas+into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 </div> 
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a **Moroccan developer** passionate about building **clean, scalable, and user-focused software** across Web, Mobile, and AI. I love transforming ideas into interactive products, optimizing user experiences, and exploring new technologies that make life easier.
+I'm a **Moroccan developer** passionate about building **clean, scalable, and user-focused software** across Web, Mobile, and AI. I love transforming ideas into interactive products, optimizing user experience, and learning cutting-edge technologies.
 
 - 🎓 **CS50 Graduate** - Completed Harvard's Introduction to Computer Science
 - 💼 **Full-Stack Developer** - Building modern web applications with Python, PHP, and JavaScript
@@ -85,7 +85,7 @@ I'm a **Moroccan developer** passionate about building **clean, scalable, and us
 </td>
 <td width="50%">
 
-#### 🚰 [WATERMAN](https://github.com/issamsensi/WATERMAN)
+#### � [WATERMAN](https://github.com/issamsensi/WATERMAN)
 Android app for water meter management with ML Kit OCR
 - **Tech:** Java, Android, ML Kit, SQLite
 - **Features:** OCR text recognition, meter tracking
@@ -170,3 +170,57 @@ class IssamSensi:
             "📈 Grow GitHub & open-source contributions",
             "🌐 Contribute to impactful open-source projects"
         ]
+```
+
+---
+
+## 🌱 Currently Learning
+
+- 🎓 **Advanced Full-Stack Development** - Modern patterns and best practices
+- 🤖 **AI & Machine Learning** - Building intelligent applications
+- 🐳 **Docker & DevOps** - Containerization and deployment automation
+- ☁️ **Cloud Technologies** - AWS, Azure, and cloud-native development
+- 🔒 **Cybersecurity** - Secure coding practices and application security
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=issamsensi&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+- 🎓 **CS50 Graduate** - Harvard's Introduction to Computer Science
+- ⭐ **Open Source** - Contributing to the developer community
+- 📱 **Multi-Platform** - Web, Mobile, and Desktop development experience
+- 🌐 **Live Projects** - Multiple deployed applications serving real users
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-issamsensi.com-blue?style=for-the-badge)](https://issamsensi.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/issam-amghar-406b3a228)
+[![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:issamsensi@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Issam_Sensi-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@IssamSensi)
+[![GitHub](https://img.shields.io/badge/GitHub-issamsensi-181717?style=for-the-badge&logo=github)](https://github.com/issamsensi)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Always learning, always building. Let's create something impactful!"
+
+![Profile Views](https://komarev.com/ghpvc/?username=issamsensi&color=blueviolet&style=for-the-badge)
+
+**⭐ From [issamsensi](https://github.com/issamsensi) with ❤️**
+
+</div>
