@@ -85,7 +85,7 @@ I'm a **Moroccan developer** passionate about building **clean, scalable, and us
 </td>
 <td width="50%">
 
-#### � [WATERMAN](https://github.com/issamsensi/WATERMAN)
+#### 💧 [WATERMAN](https://github.com/issamsensi/WATERMAN)
 Android app for water meter management with ML Kit OCR
 - **Tech:** Java, Android, ML Kit, SQLite
 - **Features:** OCR text recognition, meter tracking
@@ -138,6 +138,8 @@ Modern, responsive portfolio website
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=issamsensi&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issamsensi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/issamsensi/issamsensi/output/github-contribution-grid-snake.svg)
 
 </div>
 
