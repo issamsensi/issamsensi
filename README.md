@@ -1,102 +1,135 @@
 <div align="center">
 
-# Hi, I'm Issam Sensi
+# 👋 Hi, I'm Issam Sensi
 
-Full‑Stack Developer • AI Student • CS50 Graduate
+### Full-Stack Developer | AI Student | CS50 Graduate
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-issamsensi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://issamsensi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-amghar-406b3a228)
 [![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamsensi@gmail.com)
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Clean%2C+Scalable+Software;Full-Stack+Web+%26+Mobile+Developer;AI+%26+Machine+Learning+Explorer;Turning+Ideas+Into+Products" />
+
+</div> 
 
 ---
 
-## About
+## 🚀 About Me
 
-I’m a **Moroccan developer** who enjoys building **clean, scalable, user‑focused products** across **Web, Mobile, and AI**. I like turning ideas into shippable software, polishing UX details, and automating repetitive work.
+I'm a **Moroccan developer** passionate about building **clean, scalable, and user-focused software** across Web, Mobile, and AI. I love transforming ideas into interactive products, optimizing user experiences, and exploring new technologies that make life easier.
 
-- Building: full‑stack web apps, Android/Flutter apps, AI‑assisted tools
-- Interests: system design, UI/UX, deployment & DevOps
-- Motto: **“IF YOU WANT YOU CAN.”**
+- 🎓 **CS50 Graduate** - Completed Harvard's Introduction to Computer Science
+- 💼 **Full-Stack Developer** - Building modern web applications with Python, PHP, and JavaScript
+- 🤖 **AI Explorer** - Integrating machine learning and automation into real-world projects
+- 🎨 **UI/UX Enthusiast** - Creating beautiful, intuitive interfaces
+- 📱 **Mobile Developer** - Android apps with Java and Flutter
+- 🌱 **Continuous Learner** - Currently mastering full-stack development and AI
 
----
-
-## Tech stack
-
-**Languages:** Python, JavaScript, PHP, Java, C, Dart  
-**Frontend:** HTML, CSS, Bootstrap, Tailwind, React  
-**Backend / Data:** Flask, NumPy  
-**Mobile:** Android, Flutter  
-**Databases:** MySQL, SQLite, SQL Server  
-**Tools:** Git, GitHub, Linux, Docker, VS Code
+> **"IF YOU WANT YOU CAN"** 💪
 
 ---
 
-## Featured projects
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sql-server&logoColor=white)
+
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💼 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### Matrices — Matrix Calculator
-[github.com/issamsensi/matrices](https://github.com/issamsensi/matrices)
-
-Flask + NumPy web app for matrix operations.
-
+#### 🧮 [Matrices - Matrix Calculator](https://github.com/issamsensi/matrices)
+⭐ Flask + NumPy web app for matrix operations
 - **Tech:** Python, Flask, NumPy, TeX
-- **Focus:** matrix analysis & computation
+- **Features:** Matrix analysis and computation
+- **UI:** Clean, responsive interface
+- **Status:** Live & Deployed
 
 </td>
 <td width="50%">
 
-### WATERMAN
-[github.com/issamsensi/WATERMAN](https://github.com/issamsensi/WATERMAN)
-
-Android app for water meter management with OCR.
-
+#### 🚰 [WATERMAN](https://github.com/issamsensi/WATERMAN)
+Android app for water meter management with ML Kit OCR
 - **Tech:** Java, Android, ML Kit, SQLite
-- **Focus:** OCR text recognition + meter tracking
+- **Features:** OCR text recognition, meter tracking
+- **Application:** Real-world utility management
+- **Innovation:** Machine learning integration
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ECOSTAGE
-[github.com/issamsensi/ECOSTAGE](https://github.com/issamsensi/ECOSTAGE)
-
-Web platform for product and category management.
-
+#### 🏨 [ECOSTAGE](https://github.com/issamsensi/ECOSTAGE)
+Web platform for product and category management
 - **Tech:** PHP, MySQL, HTML, CSS
-- **Focus:** product showcase + user accounts
+- **Features:** Product showcase, user accounts
+- **Type:** Full-stack web application
+- **Purpose:** E-commerce management system
 
 </td>
 <td width="50%">
 
-### Portfolio
-[github.com/issamsensi/portfolio-v1](https://github.com/issamsensi/portfolio-v1)
-
-Modern, responsive portfolio website.
-
+#### 🎨 [Portfolio v1](https://github.com/issamsensi/portfolio-v1)
+Modern, responsive portfolio website
 - **Tech:** HTML, CSS, JavaScript
+- **Features:** Project showcase, skills display
+- **Design:** Clean, professional UI
 - **Live:** [issamsensi.com](https://issamsensi.com)
 
 </td>
 </tr>
 </table>
 
-**More:**
-- [CS50 Final Project](https://github.com/issamsensi/CS50_FINAL_PROJECT)
-- [Todo List](https://github.com/issamsensi/todo_list)
-- [Weather App](https://github.com/issamsensi/weather)
-- [Password Generator](https://github.com/issamsensi/password-generator)
-- [Rock Paper Scissors](https://github.com/issamsensi/rock-paper-scissors)
-- [Calculator](https://github.com/issamsensi/calculator)
+### 🌟 More Projects
+
+- **[CS50 Final Project](https://github.com/issamsensi/CS50_FINAL_PROJECT)** - Comprehensive final project for Harvard's CS50
+- **[Todo List](https://github.com/issamsensi/todo_list)** - Clean Flutter to-do application (C++/Dart)
+- **[Weather App](https://github.com/issamsensi/weather)** - Weather data fetcher using OpenWeatherMap API
+- **[Password Generator](https://github.com/issamsensi/password-generator)** - Random password generator with options
+- **[Rock Paper Scissors](https://github.com/issamsensi/rock-paper-scissors)** - Interactive game vs computer
+- **[Calculator](https://github.com/issamsensi/calculator)** - Simple web-based arithmetic calculator
 
 ---
 
-## GitHub stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,45 +143,30 @@ Modern, responsive portfolio website.
 
 ---
 
-## What I’m working on
+## 🎯 What I'm Working On
 
 ```python
 class IssamSensi:
     def __init__(self):
         self.name = "Issam Sensi"
         self.role = "Full-Stack Developer, AI Student"
-        self.location = "Morocco"
+        self.location = "Morocco 🇲🇦"
         self.education = ["CS50", "Self-Taught Developer"]
-
+        
     def current_focus(self):
         return {
             "learning": ["Full-Stack Development", "AI & Machine Learning", "Docker & CI/CD"],
             "building": ["Production-ready web apps", "AI-powered tools", "Mobile applications"],
-            "improving": ["System design", "Algorithms", "UI/UX"],
-            "exploring": ["Cloud deployment", "DevOps", "Open-source contribution"],
+            "improving": ["System design", "Algorithm optimization", "UI/UX design"],
+            "exploring": ["Cloud deployment", "DevOps practices", "Open-source contribution"]
         }
-
+    
     def goals_2026(self):
         return [
-            "Build a stronger portfolio with real projects",
-            "Deploy more production-ready web applications",
-            "Master Docker & CI/CD automation",
-            "Build AI-powered tools",
-            "Contribute more to open source",
+            "✅ Build strong portfolio with real projects",
+            "🚀 Deploy production-ready web applications",
+            "📦 Master Docker & CI/CD automation",
+            "🧠 Build AI-powered tools and chatbots",
+            "📈 Grow GitHub & open-source contributions",
+            "🌐 Contribute to impactful open-source projects"
         ]
-```
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-issamsensi.com-blue?style=for-the-badge)](https://issamsensi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/issam-amghar-406b3a228)
-[![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:issamsensi@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Issam_Sensi-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@IssamSensi)
-
-![Profile Views](https://komarev.com/ghpvc/?username=issamsensi&color=blueviolet&style=for-the-badge)
-
-</div>
