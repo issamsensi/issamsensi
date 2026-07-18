@@ -1,226 +1,195 @@
 <div align="center">
 
-# 👋 Hi, I'm Issam Sensi
+# Hi, I'm Issam Sensi 👋
 
-### Full-Stack Developer | AI Student | CS50 Graduate
+### AI Software Engineer • Full-Stack Developer • Backend & Automation
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-issamsensi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://issamsensi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-amghar-406b3a228)
-[![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issamsensi@gmail.com)
+Building intelligent software, scalable backend systems, and AI-powered SaaS applications from Casablanca, Morocco 🇲🇦
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Clean%2C+Scalable+Software;Full-Stack+%7C+Mobile+%7C+AI;Transforming+Ideas+into+Reality;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<p>
+<a href="https://issamsensi.com">
+<img src="https://img.shields.io/badge/Portfolio-issamsensi.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-</div> 
+<a href="https://www.linkedin.com/in/issam-amghar-406b3a228">
+<img src="https://img.shields.io/badge/LinkedIn-Issam_Sensi-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:issamsensi@gmail.com">
+<img src="https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+</p>
 
-I'm a **Moroccan developer** passionate about building **clean, scalable, and user-focused software** across Web, Mobile, and AI. I love transforming ideas into interactive products, optimizing user experience, and learning cutting-edge technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Software;Backend+Architecture+%26+Automation;NestJS+%7C+React+%7C+Python;Always+Learning.+Always+Building." />
 
-- 🎓 **CS50 Graduate** - Completed Harvard's Introduction to Computer Science
-- 💼 **Full-Stack Developer** - Building modern web applications with Python, PHP, and JavaScript
-- 🤖 **AI Explorer** - Integrating machine learning and automation into real-world projects
-- 🎨 **UI/UX Enthusiast** - Creating beautiful, intuitive interfaces
-- 📱 **Mobile Developer** - Android apps with Java and Flutter
-- 🌱 **Continuous Learner** - Currently mastering full-stack development and AI
-
-> **"IF YOU WANT YOU CAN"** 💪
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm an AI and Full-Stack developer from Morocco, currently completing a Licence d'Excellence en Intelligence Artificielle at Faculté des Sciences Ben M'Sick (FSBM), Hassan II University in Casablanca.
+
+I enjoy designing scalable architectures, integrating LLMs into real-world products, and turning ideas into production-ready applications — spanning NLP, deep learning, computer vision, and backend/automation systems.
+
+I completed an AI internship at **CodeAlpha**, where I built a multilingual translator with API + LLM fallback, an NLP-powered chatbot, and an LSTM-based music generator, alongside other deep learning models.
+
+Currently I'm focused on:
+
+- 🤖 AI-powered SaaS platforms
+- 🧠 NLP, deep learning & LLM-integrated agents
+- ⚙️ Backend architecture with NestJS
+- 📊 Intelligent dashboards
+- 🔄 Workflow automation
+- 🐳 Docker & deployment
+
+---
+
+# Tech Stack
+
+## Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## Frontend
 
-### Backend & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## Backend
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sql-server&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-124D1C?style=for-the-badge)
 
+## AI, Machine Learning & Data
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
----
+## Databases
 
-## 💼 Featured Projects
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-<table>
-<tr>
-<td width="50%">
+## DevOps & Tools
 
-#### 🧮 [Matrices - Matrix Calculator](https://github.com/issamsensi/matrices)
-⭐ Flask + NumPy web app for matrix operations
-- **Tech:** Python, Flask, NumPy, TeX
-- **Features:** Matrix analysis and computation
-- **UI:** Clean, responsive interface
-- **Status:** Live & Deployed
-
-</td>
-<td width="50%">
-
-#### � [WATERMAN](https://github.com/issamsensi/WATERMAN)
-Android app for water meter management with ML Kit OCR
-- **Tech:** Java, Android, ML Kit, SQLite
-- **Features:** OCR text recognition, meter tracking
-- **Application:** Real-world utility management
-- **Innovation:** Machine learning integration
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🏨 [ECOSTAGE](https://github.com/issamsensi/ECOSTAGE)
-Web platform for product and category management
-- **Tech:** PHP, MySQL, HTML, CSS
-- **Features:** Product showcase, user accounts
-- **Type:** Full-stack web application
-- **Purpose:** E-commerce management system
-
-</td>
-<td width="50%">
-
-#### 🎨 [Portfolio v1](https://github.com/issamsensi/portfolio-v1)
-Modern, responsive portfolio website
-- **Tech:** HTML, CSS, JavaScript
-- **Features:** Project showcase, skills display
-- **Design:** Clean, professional UI
-- **Live:** [issamsensi.com](https://issamsensi.com)
-
-</td>
-</tr>
-</table>
-
-### 🌟 More Projects
-
-- **[CS50 Final Project](https://github.com/issamsensi/CS50_FINAL_PROJECT)** - Comprehensive final project for Harvard's CS50
-- **[Todo List](https://github.com/issamsensi/todo_list)** - Clean Flutter to-do application (C++/Dart)
-- **[Weather App](https://github.com/issamsensi/weather)** - Weather data fetcher using OpenWeatherMap API
-- **[Password Generator](https://github.com/issamsensi/password-generator)** - Random password generator with options
-- **[Rock Paper Scissors](https://github.com/issamsensi/rock-paper-scissors)** - Interactive game vs computer
-- **[Calculator](https://github.com/issamsensi/calculator)** - Simple web-based arithmetic calculator
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+# Featured Projects
+
+### 🤖 Multi-Agent AI Learning System *(Hackathon Project)*
+A multi-agent AI system for automated learning and content generation, coordinating multiple LLM-driven agents toward a shared task pipeline.
+`AI Agents` `LLMs` `Python`
+
+### 🌍 Multilingual AI Translator
+Translation system combining external translation APIs with an LLM fallback layer to improve accuracy on edge cases and low-resource phrasing.
+`NLP` `LLM Integration` `Python`
+
+### 💬 NLP Mental Health Support Chatbot
+A chatbot that uses semantic similarity matching to understand user input and provide supportive, contextually relevant responses.
+`NLP` `Semantic Search` `Python`
+
+### 🎼 LSTM Classical Music Generator
+A deep learning model trained on classical compositions that generates original MIDI music in a similar style, using sequence modeling.
+`Deep Learning` `LSTM` `TensorFlow/Keras`
+
+### 💧 WATERMAN
+ML-powered Android app that automates water meter management for ONEP (Morocco's national water utility) — OCR meter reading via Google ML Kit, SQLite storage, and automated PDF invoice generation.
+`Java` `Android` `ML Kit OCR` `SQLite`
+
+### 🏨 Hotel Management System
+Full-stack hotel management platform with a booking engine, admin dashboard, and integrated payment processing.
+`Full-Stack` `Booking Engine` `Payments`
+
+---
+
+# More Projects
+
+- **EcoStage** — e-commerce platform with product catalog, shopping cart, and admin panel (PHP, MySQL backend, responsive UI).
+- **CNN Fashion-MNIST Classifier** — image classification model trained on the Fashion-MNIST dataset.
+- **Spam/Ham Email Classifier** — Naive Bayes model for email spam classification.
+- **[Matrices](https://github.com/issamsensi/matrices)** — deployed Flask + NumPy web app for linear algebra (SVD, QR decomposition, eigenvalues).
+- **[numpy-image-processing](https://github.com/issamsensi/numpy-image-processing)** — image processing library built from scratch on NumPy/Matplotlib.
+- **[CS50 Final Project — Unlimited Shooter](https://github.com/issamsensi/CS50_FINAL_PROJECT)** — 2D shooter (Pygame) + promotional Flask website.
+- **[todo-list-js](https://github.com/issamsensi/todo-list-js)** — keyboard-first to-do list app with local persistence.
+- **[AutoWallpaper](https://github.com/issamsensi/AutoWallpaper)** — cross-platform (Linux/Windows) wallpaper rotation tool.
+
+---
+
+# GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issamsensi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=issamsensi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=issamsensi&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamsensi&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issamsensi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=issamsensi&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
-
-```python
-class IssamSensi:
-    def __init__(self):
-        self.name = "Issam Sensi"
-        self.role = "Full-Stack Developer, AI Student"
-        self.location = "Morocco 🇲🇦"
-        self.education = ["CS50", "Self-Taught Developer"]
-        
-    def current_focus(self):
-        return {
-            "learning": ["Full-Stack Development", "AI & Machine Learning", "Docker & CI/CD"],
-            "building": ["Production-ready web apps", "AI-powered tools", "Mobile applications"],
-            "improving": ["System design", "Algorithm optimization", "UI/UX design"],
-            "exploring": ["Cloud deployment", "DevOps practices", "Open-source contribution"]
-        }
-    
-    def goals_2026(self):
-        return [
-            "✅ Build strong portfolio with real projects",
-            "🚀 Deploy production-ready web applications",
-            "📦 Master Docker & CI/CD automation",
-            "🧠 Build AI-powered tools and chatbots",
-            "📈 Grow GitHub & open-source contributions",
-            "🌐 Contribute to impactful open-source projects"
-        ]
-```
-
----
-
-## 🌱 Currently Learning
-
-- 🎓 **Advanced Full-Stack Development** - Modern patterns and best practices
-- 🤖 **AI & Machine Learning** - Building intelligent applications
-- 🐳 **Docker & DevOps** - Containerization and deployment automation
-- ☁️ **Cloud Technologies** - AWS, Azure, and cloud-native development
-- 🔒 **Cybersecurity** - Secure coding practices and application security
-
----
-
-## 🏆 Achievements
+# Activity
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=issamsensi&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
-- 🎓 **CS50 Graduate** - Harvard's Introduction to Computer Science
-- ⭐ **Open Source** - Contributing to the developer community
-- 📱 **Multi-Platform** - Web, Mobile, and Desktop development experience
-- 🌐 **Live Projects** - Multiple deployed applications serving real users
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss new ideas. Feel free to reach out!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-issamsensi.com-blue?style=for-the-badge)](https://issamsensi.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-issam--amghar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/issam-amghar-406b3a228)
-[![Email](https://img.shields.io/badge/Email-issamsensi@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:issamsensi@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Issam_Sensi-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@IssamSensi)
-[![GitHub](https://img.shields.io/badge/GitHub-issamsensi-181717?style=for-the-badge&logo=github)](https://github.com/issamsensi)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=issamsensi&theme=tokyo-night"/>
 
 </div>
 
 ---
 
+# Let's Connect
+
+I'm always interested in collaborating on projects involving AI, backend systems, SaaS products, or automation.
+
+<p align="center">
+
+<a href="https://issamsensi.com">Portfolio</a> •
+<a href="https://www.linkedin.com/in/issam-amghar-406b3a228">LinkedIn</a> •
+<a href="mailto:issamsensi@gmail.com">Email</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### 💡 "Always learning, always building. Let's create something impactful!"
+### Building software that solves real problems.
 
-![Profile Views](https://komarev.com/ghpvc/?username=issamsensi&color=blueviolet&style=for-the-badge)
-
-**⭐ From [issamsensi](https://github.com/issamsensi) with ❤️**
+⭐ Thanks for visiting my profile!
 
 </div>
