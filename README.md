@@ -4,7 +4,7 @@
 
 ### AI Software Engineer • Full-Stack Developer • Backend & Automation
 
-Building intelligent software, scalable backend systems, and AI-powered SaaS applications from Casablanca, Morocco 🇲🇦
+Building intelligent software, scalable backend systems, and AI-powered SaaS applications from Morocco 🇲🇦
 
 <p>
 <a href="https://issamsensi.com">
