@@ -152,9 +152,6 @@ Full-stack hotel management platform with a booking engine, admin dashboard, and
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=issamsensi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issamsensi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=issamsensi&theme=tokyonight&hide_border=true"/>
 
